@@ -14,3 +14,7 @@ tests/services/xcuitest.json
 
 # MkDocs build output
 /site/
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
